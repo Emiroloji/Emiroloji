@@ -39,7 +39,6 @@
 | [**Forensic Face Match**](https://github.com/Emiroloji/forensic-face-match) | Secure face-matching system for digital forensics: microservices, ArcFace models, AES-256, audit logging, RabbitMQ queues | Spring Boot · FastAPI · React |
 | [**AI Reporting Platform**](https://github.com/Emiroloji/ai-reporting-platform) | Credit-based, AI-powered reporting and data analysis platform | Spring Boot · React · Docker |
 | [**EvrakFix**](https://github.com/Emiroloji/EvrakFix) | Privacy-first PWA for PDF and document tasks, running 100% in the browser and offline | TypeScript · PWA |
-| [**Crypto Trading System**](https://github.com/Emiroloji/crypto) | AI-assisted intraday crypto analysis with 20+ indicators and weighted signal scoring (paper trading) | Python |
 | [**Denti**](https://github.com/Emiroloji/java-denti) | Dental management monorepo | Java 21 · Spring Boot · React · Mantine |
 
 ## 🤝 Connect
