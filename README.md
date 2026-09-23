@@ -1,14 +1,51 @@
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.michaelpage.com.hk%2Fadvice%2Fjob-description%2Ftechnology%2Fsoftware-developer&psig=AOvVaw0eqgCLC0A1QZT9iNet-b_k&ust=1708788407560000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjoxoLjwYQDFQAAAAAdAAAAABAE)
-<h1 align="center">Hi 👋, I'm Emircan Uysal</h1>
-<h3 align="center">A passionate software developer from Türkiye</h3>
+# Hi, I'm Emircan Uysal 👋
 
-- 📫 How to reach me **emircanuysal6e@gmail.com**
+**Full-Stack Developer from Türkiye.** I build business applications end to end — from multi-tenant backends and microservices to React front ends — with Java/Spring Boot, Laravel, Go and TypeScript.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emir can uysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emir can uysal" height="30" width="40" /></a>
-<a href="https://instagram.com/emircan.uysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emircan.uysal" height="30" width="40" /></a>
-</p>
+- 🔭 Currently building **Dental ERP**, a multi-tenant stock & clinic management system for dental clinic chains
+- 🧩 Interested in clean architecture, microservices and AI-powered products
+- 📫 Reach me at **emircanuysal6e@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
+
+**Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Frontend**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Data & DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**Dental ERP**](https://github.com/Emiroloji/dental-erp) | Multi-tenant stock & clinic management for dental clinic chains — branches, warehouses, role-based permissions, lot/expiry-tracked inventory | Laravel · PHP · MySQL |
+| [**Forensic Face Match**](https://github.com/Emiroloji/forensic-face-match) | Secure face-matching system for digital forensics: microservices, ArcFace models, AES-256, audit logging, RabbitMQ queues | Spring Boot · FastAPI · React |
+| [**AI Reporting Platform**](https://github.com/Emiroloji/ai-reporting-platform) | Credit-based, AI-powered reporting and data analysis platform | Spring Boot · React · Docker |
+| [**EvrakFix**](https://github.com/Emiroloji/EvrakFix) | Privacy-first PWA for PDF and document tasks, running 100% in the browser and offline | TypeScript · PWA |
+| [**Crypto Trading System**](https://github.com/Emiroloji/crypto) | AI-assisted intraday crypto analysis with 20+ indicators and weighted signal scoring (paper trading) | Python |
+| [**Denti**](https://github.com/Emiroloji/java-denti) | Dental management monorepo | Java 21 · Spring Boot · React · Mantine |
+
+## 🤝 Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emircanuysal6e@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/emircan94751761)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/emircan.uysal)
