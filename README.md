@@ -1,6 +1,6 @@
 # Hi, I'm Emircan Uysal 👋
 
-**Full-Stack Developer from Türkiye.** I build business applications end to end — from multi-tenant backends and microservices to React front ends — with Java/Spring Boot, Laravel, Go and TypeScript.
+**Full-Stack Developer from Türkiye.** I build business applications end to end — from multi-tenant backends and microservices to React front ends — with Java/Spring Boot, Laravel and React/TypeScript.
 
 - 🔭 Currently building **Dental ERP**, a multi-tenant stock & clinic management system for dental clinic chains
 - 🧩 Interested in clean architecture, microservices and AI-powered products
@@ -11,10 +11,8 @@
 **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
