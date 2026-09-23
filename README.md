@@ -36,9 +36,10 @@
 | Project | Description | Stack |
 | --- | --- | --- |
 | [**Dental ERP**](https://github.com/Emiroloji/dental-erp) | Multi-tenant stock & clinic management for dental clinic chains — branches, warehouses, role-based permissions, lot/expiry-tracked inventory | Laravel · PHP · MySQL |
-| [**Forensic Face Match**](https://github.com/Emiroloji/forensic-face-match) | Secure face-matching system for digital forensics: microservices, ArcFace models, AES-256, audit logging, RabbitMQ queues | Spring Boot · FastAPI · React |
+| [**Forensic Face Match**](https://github.com/Emiroloji/emiroloji-emiroloji-forensic) | Secure face-matching system for digital forensics: microservices, ArcFace models, AES-256, audit logging, RabbitMQ queues | Spring Boot · FastAPI · React |
 | [**AI Reporting Platform**](https://github.com/Emiroloji/ai-reporting-platform) | Credit-based, AI-powered reporting and data analysis platform | Spring Boot · React · Docker |
 | [**EvrakFix**](https://github.com/Emiroloji/EvrakFix) | Privacy-first PWA for PDF and document tasks, running 100% in the browser and offline | TypeScript · PWA |
+| [**Crypto Trading System**](https://github.com/Emiroloji/crypto) | AI-assisted intraday crypto analysis with 20+ indicators and weighted signal scoring (paper trading) | Python |
 | [**Denti**](https://github.com/Emiroloji/java-denti) | Dental management monorepo | Java 21 · Spring Boot · React · Mantine |
 
 ## 🤝 Connect
@@ -47,3 +48,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emircanuysal6e@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/emircan94751761)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/emircan.uysal)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emiroloji/Emiroloji/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Emiroloji/Emiroloji/output/github-contribution-grid-snake.svg">
+</picture>
